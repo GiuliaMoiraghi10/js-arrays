@@ -62,5 +62,5 @@ console.log(teachersString)
 const teachersLength = teachers.length;
 console.log(teachersLength)
 
-const isTeachersEmpty = teachersLength < 0
+const isTeachersEmpty = teachersLength < 1
 console.log(isTeachersEmpty)
